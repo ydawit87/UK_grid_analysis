@@ -1,0 +1,10 @@
+geopandas
+shapely
+folium
+plotly
+pandas
+numpy
+seaborn
+scipy
+matplotlib
+requests
